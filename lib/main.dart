@@ -22,5 +22,16 @@ class MyApp extends StatelessWidget {
 // git init
 // git add .
 // git status
+// git remote add origin https://github.com/YousefSheriff/BeInWebTasks.git
 // git commit -m "commnts are added"
 // git push origin master
+
+
+// echo "# InWeb_Tasks" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/YousefSheriff/InWeb_Tasks.git
+// git push -u origin main
+
